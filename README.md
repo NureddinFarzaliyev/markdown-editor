@@ -12,5 +12,8 @@ You can also **download** the markdown file. <br> <br>
 2. **Download** documents
 3. Switch between **dark** and **light** modes.
 
+#### App in light mode:
 ![app_light](https://github.com/NureddinFarzaliyev/markdown-editor/blob/master/public/app_light.png)
+
+#### App in dark mode:
 ![app_dark](https://github.com/NureddinFarzaliyev/markdown-editor/blob/master/public/app_dark.png)
